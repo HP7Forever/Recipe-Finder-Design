@@ -1,2 +1,2 @@
 # Recipe-Finder-Design
-Using Figma
+This UI is designed using Figma
